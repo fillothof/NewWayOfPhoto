@@ -1,0 +1,2 @@
+# NewWayOfPhoto
+Project of Photo
